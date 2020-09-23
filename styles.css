@@ -1,0 +1,34 @@
+body {
+  background-color: lightblue;
+  background-image: url("autumn_leaves.jpg");
+}
+
+table {
+  background-color: orange;
+  border-collapse: collapse;
+  width: 50%
+ }
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+background-color: darkorange;
+}
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+*marked {
+  background: round black;
+}
